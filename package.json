@@ -1,0 +1,24 @@
+{
+  "name": "projetoportal",
+  "version": "0.0.1",
+  "description": "Desenvolvimento de um projeto para o final do curso de desenvolvimento web com javaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felipesdeveloper/projetoportal.git"
+  },
+  "author": "FelipesDeveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felipesdeveloper/projetoportal/issues"
+  },
+  "homepage": "https://github.com/Felipesdeveloper/projetoportal#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mustache": "^2.2.1",
+    "mustache-express": "^1.2.2"
+  }
+}

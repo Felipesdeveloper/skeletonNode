@@ -1,0 +1,10 @@
+{
+  "name": "projetoportal",
+  "description": "Desenvolvimento de um projeto para o final do curso de desenvolvimento web com javaScript",
+  "main": "main.js",
+  "authors": [
+    "FelipesDeveloper"
+  ],
+  "license": "ISC",
+  "homepage": ""
+}
